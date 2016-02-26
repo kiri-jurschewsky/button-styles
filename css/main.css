@@ -18,7 +18,7 @@ div {
   color: #fff;
   padding: 0.4em 0.75em 0.3em;
   text-decoration: none;
-    font-size: 1rem;
+  font-size: 1rem;
 }
 
 .btn-subtle {
@@ -27,7 +27,7 @@ div {
   color: #fff;
   padding: 0.4em 0.75em 0.3em;
   text-decoration: none;
-    font-size: 1rem;
+  font-size: 1rem;
 }
 
 .btn-ghost {
@@ -36,7 +36,7 @@ div {
   color: #000;
   padding: 0.4em 0.75em 0.3em;
   text-decoration: none;
-    font-size: 1rem;
+  font-size: 1rem;
 }
 
 .btn-warning {
@@ -55,7 +55,7 @@ div {
   color: #fff;
   padding: 0.4em 0.75em 0.3em;
   text-decoration: none;
-  font-size: 0.875rem
+  font-size: 0.875rem;
 }
 
 .btn-subtle-small {
@@ -64,7 +64,7 @@ div {
   color: #fff;
   padding: 0.4em 0.75em 0.3em;
   text-decoration: none;
-  font-size: 0.875rem
+  font-size: 0.875rem;
 }
 
 .btn-ghost-small {
@@ -73,7 +73,7 @@ div {
   color: #000;
   padding: 0.4em 0.75em 0.3em;
   text-decoration: none;
-  font-size: 0.875rem
+  font-size: 0.875rem;
 }
 
 .btn-warning-small {
@@ -82,9 +82,8 @@ div {
   color: #fff;
   padding: 0.4em 0.75em 0.3em;
   text-decoration: none;
-  font-size: 0.875rem
+  font-size: 0.875rem;
 }
-
 
 .btn-big {
   display: inline-block;
@@ -92,7 +91,7 @@ div {
   color: #fff;
   padding: 0.4em 0.75em 0.3em;
   text-decoration: none;
-  font-size: 1.5rem
+  font-size: 1.5rem;
 }
 
 .btn-subtle-big {
@@ -101,7 +100,7 @@ div {
   color: #fff;
   padding: 0.4em 0.75em 0.3em;
   text-decoration: none;
-  font-size: 1.5rem
+  font-size: 1.5rem;
 }
 
 .btn-ghost-big {
@@ -110,7 +109,7 @@ div {
   color: #000;
   padding: 0.4em 0.75em 0.3em;
   text-decoration: none;
-  font-size: 0.875rem
+  font-size: 0.875rem;
 }
 
 .btn-warning-big {
@@ -119,5 +118,5 @@ div {
   color: #fff;
   padding: 0.4em 0.75em 0.3em;
   text-decoration: none;
-  font-size: 1.5rem
+  font-size: 1.5rem;
 }
