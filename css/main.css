@@ -13,110 +13,79 @@ div {
 }
 
 .btn {
+  font-size: 1.125rem;
+  display: inline-block;
+  background-color: #333;
+  color: #fff;
+  text-decoration: none;
+  border: 3px;
+  border-radius: 8px;
+  padding: 0.4em 0.75em 0.3em;
+}
+
+.btn:hover {
   display: inline-block;
   background-color: #000;
-  color: #fff;
-  padding: 0.4em 0.75em 0.3em;
-  text-decoration: none;
-  font-size: 1rem;
-}
-
-.btn-subtle {
-  display: inline-block;
-  background-color: #ccc;
-  color: #fff;
-  padding: 0.4em 0.75em 0.3em;
-  text-decoration: none;
-  font-size: 1rem;
-}
-
-.btn-ghost {
-  display: inline-block;
-  background-color: #fff;
-  color: #000;
-  padding: 0.4em 0.75em 0.3em;
-  text-decoration: none;
-  font-size: 1rem;
-}
-
-.btn-warning {
-  display: inline-block;
-  background-color: #f33;
-  color: #fff;
-  padding: 0.4em 0.75em 0.3em;
-  text-decoration: none;
-  font-size: 1rem;
 
 }
 
 .btn-small {
-  display: inline-block;
-  background-color: #000;
-  color: #fff;
-  padding: 0.4em 0.75em 0.3em;
-  text-decoration: none;
   font-size: 0.875rem;
+
 }
 
-.btn-subtle-small {
-  display: inline-block;
+.btn-big {
+  font-size: 1.5rem;
+}
+
+.btn-subtle {
+  font-size: 1rem;
   background-color: #ccc;
-  color: #fff;
-  padding: 0.4em 0.75em 0.3em;
-  text-decoration: none;
-  font-size: 0.875rem;
+  font-size: 1.125rem;
 }
 
-.btn-ghost-small {
+.btn-subtle:hover {
   display: inline-block;
+  background-color: #666;
+}
+
+.btn-ghost {
+  font-size: 1.125rem;
   background-color: #fff;
   color: #000;
-  padding: 0.4em 0.75em 0.3em;
-  text-decoration: none;
-  font-size: 0.875rem;
+  border-color: #000;
 }
 
-.btn-warning-small {
-  display: inline-block;
+.btn-ghost:hover {
+  background-color: #666;
+}
+
+.btn-warning {
+  font-size: 1.125rem;
   background-color: #f33;
-  color: #fff;
-  padding: 0.4em 0.75em 0.3em;
-  text-decoration: none;
+}
+
+.btn-warning:hover {
+  display: inline-block;
+  background-color: #933;
+}
+
+.btn-small {
   font-size: 0.875rem;
 }
 
 .btn-big {
-  display: inline-block;
-  background-color: #000;
-  color: #fff;
-  padding: 0.4em 0.75em 0.3em;
-  text-decoration: none;
   font-size: 1.5rem;
 }
 
-.btn-subtle-big {
-  display: inline-block;
+.btn-subtle {
   background-color: #ccc;
-  color: #fff;
-  padding: 0.4em 0.75em 0.3em;
-  text-decoration: none;
-  font-size: 1.5rem;
 }
 
-.btn-ghost-big {
-  display: inline-block;
+.btn-gost {
   background-color: #fff;
-  color: #000;
-  padding: 0.4em 0.75em 0.3em;
-  text-decoration: none;
-  font-size: 0.875rem;
 }
 
-.btn-warning-big {
-  display: inline-block;
+.btn-warning {
   background-color: #f33;
-  color: #fff;
-  padding: 0.4em 0.75em 0.3em;
-  text-decoration: none;
-  font-size: 1.5rem;
 }
